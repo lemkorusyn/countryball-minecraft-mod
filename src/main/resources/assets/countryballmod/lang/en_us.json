@@ -1,0 +1,11 @@
+{
+  "item.countryballmod.countryball_base_spawn_egg": "Countryball Base Spawn Egg",
+  "item.countryballmod.lemkoball_spawn_egg": "Lemkoball Spawn Egg",
+  "item.countryballmod.germanyball_spawn_egg": "Germanyball Spawn Egg",
+  "item.countryballmod.chinaball_spawn_egg": "Chinaball Spawn Egg",
+  "item.countryballmod.indiaball_spawn_egg": "Indiaball Spawn Egg",
+  "item.countryballmod.russiaball_spawn_egg": "Russiaball Spawn Egg",
+  "item.countryballmod.spainball_spawn_egg": "Spainball Spawn Egg",
+
+  "itemgroup.countryballmod.countryball_items": "Countryball Items"
+}
